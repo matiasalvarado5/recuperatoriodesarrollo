@@ -1,0 +1,1 @@
+from .home_resource import home_bp
